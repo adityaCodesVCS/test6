@@ -16,6 +16,7 @@ public class Test6Application {
 		double z = 10.3;
 		boolean isPresent = false;
 		float m = 10.3f;
+                char ch = 'b';
                 boolean isSubscribe = true;
 		SpringApplication.run(Test6Application.class, args);
 	}
